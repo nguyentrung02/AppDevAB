@@ -1,0 +1,8 @@
+-classify.o
+-eval.o
+-getscore.o
+-output.o
+-score.o
+pascal/
+score.c.save
+
